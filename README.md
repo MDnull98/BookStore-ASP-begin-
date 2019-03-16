@@ -1,2 +1,2 @@
 # BookStore-ASP-begin-
-looser's code
+BookStore Web APP (MVC5)
